@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDFE455E-F994-42B2-B665-AC063A0F0A2D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ThumbnailFocus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8ABBDE59-E9AE-4378-91F7-06A3D3A91DD7</key>
+		<string>https://github.com/mixi-inc/iOSTraining.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HomeWorks/2.3/ThumbnailFocus/ThumbnailFocus.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8ABBDE59-E9AE-4378-91F7-06A3D3A91DD7</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mixi-inc/iOSTraining.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8ABBDE59-E9AE-4378-91F7-06A3D3A91DD7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8ABBDE59-E9AE-4378-91F7-06A3D3A91DD7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSTraining</string>
+		</dict>
+	</array>
+</dict>
+</plist>
